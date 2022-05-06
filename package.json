@@ -1,6 +1,6 @@
 {
   "name": "project-obj",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Create a projection of a subset of (nested) object properties, inspired by mongodb's implementation.",
   "main": "./app/dist/esm/projectObj.js",
   "types": "./app/dist/esm/projectObj.d.ts",
@@ -27,18 +27,18 @@
     "url": "git+https://github.com/maximilianMairinger/projectObj.git"
   },
   "keywords": [
-  "project",
-  "object",
-  "obj",
-  "filter",
-  "mask",
-  "select",
-  "fields",
-  "properties",
-  "query",
-  "json",
-  "projection"
-],
+    "project",
+    "object",
+    "obj",
+    "filter",
+    "mask",
+    "select",
+    "fields",
+    "properties",
+    "query",
+    "json",
+    "projection"
+  ],
   "author": "Maximilian Mairinger",
   "license": "ISC",
   "bugs": {
