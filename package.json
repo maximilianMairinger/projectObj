@@ -4,7 +4,6 @@
   "description": "Create a projection of a subset of (nested) object properties, inspired by mongodb's implementation.",
   "main": "./app/dist/esm/projectObj.js",
   "types": "./app/dist/esm/projectObj.d.ts",
-  "bin": "./app/dist/esm/cli/projectObj-cli.js",
   "exports": {
     "node": {
       "import": "./app/dist/esm/projectObj.js",
