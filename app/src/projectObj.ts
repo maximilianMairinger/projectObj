@@ -1,4 +1,4 @@
-export function projectObj(source: object, project: object) {
+export function projectObj<O extends object>(source: O, project: object): Partial<O> {
   if (project === undefined) return source
   const keys = Object.keys(project)
   if (keys.length === 0) return source
